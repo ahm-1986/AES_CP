@@ -74,7 +74,7 @@ solve minimize objective;
 
     return model_str
 
-# Example usage with 4 inputs and 4 outputs
+# Example usage with 4 rounds  and 16 cells
 r=4
 num_inputs = 16
 
